@@ -42,3 +42,7 @@ venv.bak/
 .vscode/
 *.swp
 *.swo
+
+# Project specific
+td_agent.pkl
+output/
